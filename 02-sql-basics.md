@@ -12,13 +12,12 @@
 SQL is the language used to issue commands to a database i.e. query. Allows us to:
 
 - Describe the shape of the data to be stored
-- Provide hints to the database engin about how data is to be accesses
+- Provide hints to the database engine about how data is to be accessed
 - Provides CRUD operations on our database:
   - Create
   - Read
   - Update
   - Delete
-
 
 ## Types of SQL Commands and Data Types
 
@@ -28,7 +27,7 @@ SQL is the language used to issue commands to a database i.e. query. Allows us t
 - _Data Manipulation Language (DML)_: Allows users to access/manipulate data
   within relational database.
 
-- _Data Control Language_: Enables urs to provide access to various database
+- _Data Control Language_: Enables users to provide access to various database
   objects.
 
 - _Transaction Control Language_: Specifies commands for beginning and ending a
